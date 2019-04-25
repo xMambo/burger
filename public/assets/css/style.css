@@ -1,0 +1,54 @@
+.wrapper {
+    background-image: url("/assets/img/bobs-background.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 100%;
+    height: 900px;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.box {
+    background-color: rgba(41, 41, 41, 0.585);
+    margin-top: 10px;
+    text-align: center;
+}
+
+.box-img {
+    display: flex;
+}
+
+.burg-img {
+    justify-content: center;
+    width: 300px;
+    }
+
+
+.jumbotron > h1 {
+}
+
+#newburger {
+    border-radius: 5px;
+}
+
+#color-white {
+    color: #fff;
+}
+
+#lefthead {
+    background-color: #7eab78;
+    color: white;
+    text-align: center;
+    font-size: 1.2em;
+}
+
+#eatbutton, #trashbutton {
+    float: right;
+}
+
+#righthead {
+    background-color: #cf9748;
+    color: white;
+    text-align: center;
+    font-size: 1.2em;
+}
