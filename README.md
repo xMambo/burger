@@ -37,11 +37,6 @@ Following the MVC design pattern this app uses Node and MySQL to query and route
    ```
    $ npm install
    ```
-   
-### Application Design
-<p align="center">
-   <img src="samples/architecture.png?raw=true" alt="Application Design" width="800px" align="center" />
-</p>
 
 
 ### Using the Application Locally
